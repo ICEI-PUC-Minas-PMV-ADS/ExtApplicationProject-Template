@@ -1,4 +1,4 @@
-# Plano de Testes de Software
+# Planos de Testes de Software
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
