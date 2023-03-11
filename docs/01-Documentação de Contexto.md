@@ -36,6 +36,6 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 Relacionar a situação-problema da organização com o impacto social esperado com a implantação do sistema sociotécnico.
 
-## Relação com Extensão
+## Descrição do Parceiro
 
 Apresente uma descrição resumida sobre a organização onde o projeto será desenvolvido para que possa ser compreendido o cenário sistema sociotécnico.
