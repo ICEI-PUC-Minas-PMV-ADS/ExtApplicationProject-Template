@@ -1,8 +1,6 @@
 # Planos de Testes de Software
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
-
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+Apresente os casos de testes utilizados na realização da verificação e validação da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos bem como o tratamento de erros (robustez da aplicação).
 
 ### Tipo de Teste
 - **Sucesso**: Tem o objetivo de verificar se as funcionalidades funcionam corretamente.
@@ -41,8 +39,8 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
     <tr>
     <td><strong>Dados de teste</strong></td>
     <td>
-      - <strong>CPF:</strong> "00000000000"<br>
-      - <strong>Senha:</strong> "admin@123"
+      - <strong>CPF:</strong> Colocar CPF cadastrado na base<br>
+      - <strong>Senha:</strong> Colocar valor de senha válida
   </tr>
     <tr>
     <td><strong>Critérios de êxito</strong></td>
@@ -83,8 +81,8 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
     <tr>
     <td><strong>Dados de teste</strong></td>
     <td>
-      - <strong>CPF:</strong> "CPF cadastrado na base"<br>
-      - <strong>Senha:</strong> "xxxxx"
+      - <strong>CPF:</strong> Colocar CPF cadastrado na base<br>
+      - <strong>Senha:</strong> Colocar senha inválida
   </tr>
     <tr>
     <td><strong>Critérios de êxito</strong></td>
