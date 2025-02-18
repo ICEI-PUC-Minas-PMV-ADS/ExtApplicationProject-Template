@@ -3,7 +3,7 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Nesse momento o grupo deve apresentar o problema que a aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
@@ -16,7 +16,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Aqui o grupo deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
@@ -35,6 +35,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 ## Relação com a Extensão Universitária
 
 Relacionar a situação-problema da organização com o impacto social esperado com a implantação do sistema sociotécnico.
+Apresentar aqui como este projeto extensionista transforma a realidade do parceiro e dos alunos.
 
 ## Descrição do Parceiro
 
