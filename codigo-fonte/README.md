@@ -1,8 +1,9 @@
 # Instruções de utilização
+Descrever orientações essenciais para utilização da aplicação. Sugere-se anexar um pequeno manual de usuário.
 
-## Instalação do Site
+## Implantação
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+Descrever a infra estrutura utilizada para implantação da aplicação.
 
 ## Histórico de versões
 
