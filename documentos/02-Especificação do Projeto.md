@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+<span style="color:red">Pré-requisitos: <a href="documentos/01-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. 
 
