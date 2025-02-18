@@ -16,9 +16,7 @@ Aqui o grupo deve descrever os objetivos do trabalho indicando que o objetivo é
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com a aplicação que o grupo escolheu. Indique as razões pelas quais escolheu os objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Descreva as dores/dificuldades do parceiro que motivam trabalhar na construção da solução.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
