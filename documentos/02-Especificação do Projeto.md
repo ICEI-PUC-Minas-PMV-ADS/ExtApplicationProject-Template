@@ -5,14 +5,25 @@
 Definição do problema e ideia de solução a partir da perspectiva do usuário. 
 
 ## Usuários
+| Tipo de Usuário   | Descrição | Responsabilidades |
+|------------------|-----------|------------------|
+| **xxx** | xxxxx | xxxxx |
+
+### Exemplo
+
+| Tipo de Usuário   | Descrição | Responsabilidades |
+|------------------|-----------|------------------|
+| **Administrador** | Gerencia a aplicação e os usuários. | Gerenciar usuários, configurar o sistema, acessar todos os relatórios. |
+| **Funcionário** | Usa a aplicação para suas tarefas principais. | Criar e editar registros, visualizar relatórios. |
 
 
 ## Arquitetura e Tecnologias
 
-o	Descreva brevemente a arquitetura definida para o projeto e as tecnologias a serem utilizadas. Sugere-se a criação de um diagrama de componentes da solução.
+Descreva brevemente a arquitetura definida para o projeto e as tecnologias a serem utilizadas. Sugere-se a criação de um diagrama de componentes da solução.
 
 ## Project Model Canvas
 
+Deve ser desenvolvido a partir do microfundamento: Empreendedorismo e inovação.
 Colocar a imagem do modelo construído apresentando a proposta de solução.
 
 > **Links Úteis**:
@@ -21,6 +32,8 @@ Colocar a imagem do modelo construído apresentando a proposta de solução.
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
+
+Para mais informações, consulte os microfundamentos Fundamentos de Engenharia de Software e Engenharia de Requisitos de Software. 
 
 ### Requisitos Funcionais
 
@@ -70,6 +83,8 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
+Para mais informações, consulte o microfundamento Engenharia de Requisitos de Software 
+
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 
 > **Links Úteis**:
@@ -79,16 +94,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Astah](https://astah.net/)
 > - [Diagrams](https://app.diagrams.net/)
 
-## Modelo ER (Projeto Conceitual)
-
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
-
-Sugestão de ferramentas para geração deste artefato: LucidChart e Draw.io.
-
-A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
-
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
-
 ## Projeto da Base de Dados
 
 O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
+ 
+Para mais informações, consulte o microfundamento "Modelagem de Dados".
+
