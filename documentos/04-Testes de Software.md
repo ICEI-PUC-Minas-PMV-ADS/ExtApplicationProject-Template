@@ -7,9 +7,11 @@ Apresente os casos de testes utilizados na realização da verificação e valid
 - **Insucesso**: Tem o objetivo de verificar se o sistema trata erros de maneira correta.
 
 #### Exemplo de Caso de Teste de Sucesso
+O caso de teste de sucesso devm ser identificado por CT - xxx - S
+
 <table>
   <tr>
-    <th colspan="2" width="1000">CT-001<br>Login com credenciais válidas</th>
+    <th colspan="2" width="1000">CT-001 - S<br>Login com credenciais válidas</th>
   </tr>
   <tr>
     <td width="150"><strong>Descrição</strong></td>
@@ -49,9 +51,10 @@ Apresente os casos de testes utilizados na realização da verificação e valid
 </table>
 
 #### Exemplo de Caso de Teste de Insucesso
+Os casos de testes de insucesso devem ser identificados por CT - xxx - I + sequencial de insucesso
 <table>
   <tr>
-    <th colspan="2" width="1000">CT-001<br>Login com credenciais inválidas</th>
+    <th colspan="2" width="1000">CT-001 - I01<br>Login com credenciais inválidas</th>
   </tr>
   <tr>
     <td width="150"><strong>Descrição</strong></td>
