@@ -7,7 +7,7 @@ Apresente os casos de testes utilizados na realização da verificação e valid
 - **Insucesso**: Tem o objetivo de verificar se o sistema trata erros de maneira correta.
 
 #### Exemplo de Caso de Teste de Sucesso
-O caso de teste de sucesso devm ser identificado por CT - xxx - S
+O caso de teste de sucesso deve ser identificado por CT - xxx - S
 
 <table>
   <tr>
