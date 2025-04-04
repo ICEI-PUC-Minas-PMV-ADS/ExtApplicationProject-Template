@@ -10,7 +10,7 @@ Deve conter a descrição do cliente, o Project Model Canvas e o Diagrama de Cas
   * pontos positivos e desafios da experiência extensionista,
   * conclusão da equipe.
   
-- Vídeo de apresentação da solução.
+- Vídeo de apresentação da solução:
   * tamanho do arquivo limitado a 90Mb;
   * taxa de FPS limitada a 30 quadros por segundo;
   * resolução HD (720p) ou Full HD (1080p);
