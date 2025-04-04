@@ -11,8 +11,8 @@ Deve conter a descrição do cliente, o Project Model Canvas e o Diagrama de Cas
   * conclusão da equipe.
   
 - Vídeo de apresentação da solução.
-* tamanho do arquivo limitado a 90Mb;
-* taxa de FPS limitada a 30 quadros por segundo;
-* resolução HD (720p) ou Full HD (1080p);
-* formato mp4.
+  * tamanho do arquivo limitado a 90Mb;
+  * taxa de FPS limitada a 30 quadros por segundo;
+  * resolução HD (720p) ou Full HD (1080p);
+  * formato mp4.
 
