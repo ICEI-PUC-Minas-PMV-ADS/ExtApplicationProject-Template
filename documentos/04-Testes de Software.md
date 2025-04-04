@@ -108,7 +108,7 @@ Cada funcionalidade desenvolvida deve ser testada utilizando os casos de testes 
     <td colspan="5">O sistema deve redirecionar o usuário para a página inicial do aplicativo após o login bem-sucedido.</td>
   </tr>
     <tr>
-    <td><strong>Responsável pelo Teste</strong></td>
+    <td><strong>Responsável pela funcionalidade (desenvolvimento e teste)</strong></td>
     <td width="430">José da Silva </td>
      <td width="100"><strong>Data do Teste</strong></td>
     <td width="150">08/05/2024</td>
