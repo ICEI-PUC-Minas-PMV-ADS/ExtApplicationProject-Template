@@ -98,7 +98,7 @@ Os casos de testes de insucesso devem ser identificados por CT - xxx - I + seque
 
 Apresente imagens e/ou vídeos que comprovam que um determinado teste foi executado, e o resultado esperado foi obtido. Normalmente são screenshots de telas, ou vídeos do software em funcionamento.
 
-## Parte 1 - Testes Unitários
+## Parte 1 - Testes de desenvolvimento
 Cada funcionalidade desenvolvida deve ser testada pelo próprio desenvolvedor, utilizando casos de teste, tanto de sucesso quanto de insucesso, elaborados por ele. Todos os testes devem ser evidenciados.
 
 ### Exemplo
@@ -141,7 +141,9 @@ A fim de aumentar a qualidade da aplicação desenvolvida, cada funcionalidade d
     <td colspan="5">O sistema deve redirecionar o usuário para a página inicial do aplicativo após o login bem-sucedido.</td>
   </tr>
     <tr>
-    <td><strong>Responsável pela funcionalidade</strong></td>
+     <td width="100"><strong>Etapa</strong></td>
+    <td width="150"> 2/3/4</td>
+      <td><strong>Responsável pela funcionalidade</strong></td>
     <td width="430">José da Silva </td>
       <td><strong>Responsável pelo teste</strong></td>
     <td width="430">Maria Oliveira </td>
