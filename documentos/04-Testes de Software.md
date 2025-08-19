@@ -176,5 +176,9 @@ A fim de aumentar a qualidade da aplicação desenvolvida, cada funcionalidade d
   </tr>
 </table>
 
+### ETAPA 3
+Colocar evidências de teste da etapa 3
 
+### ETAPA 4
+Colocar evidências de teste da etapa 4
 
