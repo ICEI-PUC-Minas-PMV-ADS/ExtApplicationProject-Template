@@ -141,8 +141,6 @@ A fim de aumentar a qualidade da aplicação desenvolvida, cada funcionalidade d
     <td colspan="5">O sistema deve redirecionar o usuário para a página inicial do aplicativo após o login bem-sucedido.</td>
   </tr>
     <tr>
-     <td width="100"><strong>Etapa</strong></td>
-    <td width="150"> 2/3/4</td>
       <td><strong>Responsável pela funcionalidade</strong></td>
     <td width="430">José da Silva </td>
       <td><strong>Responsável pelo teste</strong></td>
