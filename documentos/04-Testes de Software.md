@@ -53,7 +53,7 @@ O caso de teste de sucesso deve ser identificado por CT - xxx - S
 #### Exemplo de Caso de Teste de Insucesso
 Os casos de testes de insucesso devem ser identificados por CT - xxx - I + sequencial de insucesso.
 Para cada etapa do projeto, criar uma seção com o nome da Etapa do projeto: Etapa 2, Etapa 3 e Etapa 4
-### Etapa 2
+### ==========================                  ETAPA 2         ====================================
 <table>
   <tr>
     <th colspan="2" width="1000">CT-001 - I01<br>Login com credenciais inválidas</th>
