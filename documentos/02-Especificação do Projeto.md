@@ -94,9 +94,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 > - [Astah](https://astah.net/)
 > - [Diagrams](https://app.diagrams.net/)
 
-## Projeto da Base de Dados
+## Modelo da Base de Dados
 
-O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
- 
-Para mais informações, consulte o microfundamento "Modelagem de Dados".
+# Para banco de dados relacional:
+- Apresentar o MER (Modelo Entidade-Relacionamento)
+- Apresentar o Projeto Físico da Base de Dados (estrutura das tabelas, tipos de dados, chaves primárias e estrangeiras)
+# Para banco de dados NoSQL:
+Apresentar o Modelo da Base de Dados (estrutura dos documentos, coleções, ou grafos, conforme o tipo de NoSQL utilizado)
 
