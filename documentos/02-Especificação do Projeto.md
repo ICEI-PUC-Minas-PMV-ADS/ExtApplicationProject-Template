@@ -37,7 +37,7 @@ Para mais informações, consulte os microfundamentos Fundamentos de Engenharia 
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID    | Descrição do Requisito  | Prioridade |Etapa |Responsável |Responsável|Complexidade|
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
